@@ -1,0 +1,99 @@
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math';
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Arial Narrow';
+	panose-1:2 11 6 6 2 2 2 3 2 4;}
+@font-face
+	{font-family:"Trebuchet MS';
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Bahnschrift SemiCondensed';
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"SBL Hebrew';
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Courier New';}
+h6
+	{margin-top:3.95pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:27.1pt;
+	text-align:center;
+	text-autospace:none;
+	font-size:26.5pt;
+	font-family:"Times New Roman",serif;
+	font-weight:normal;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:88.65pt;
+	text-indent:-10.85pt;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{text-autospace:none;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:24.0pt 8.0pt 14.0pt 17.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:22.0pt 8.0pt 14.0pt 17.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:8.5in 11.0in;
+	margin:9.0pt 8.0pt 14.0pt 17.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+@page WordSection4
+	{size:8.5in 11.0in;
+	margin:16.0pt 8.0pt 14.0pt 17.0pt;}
+div.WordSection4
+	{page:WordSection4;}
+@page WordSection5
+	{size:8.5in 11.0in;
+	margin:37.0pt 8.0pt 14.0pt 17.0pt;}
+div.WordSection5
+	{page:WordSection5;}
+@page WordSection6
+	{size:8.5in 11.0in;
+	margin:9.0pt 8.0pt 14.0pt 17.0pt;}
+div.WordSection6
+	{page:WordSection6;}
+@page WordSection7
+	{size:8.5in 11.0in;
+	margin:9.0pt 8.0pt 14.0pt 17.0pt;}
+div.WordSection7
+	{page:WordSection7;}
+@page WordSection8
+	{size:8.5in 11.0in;
+	margin:9.0pt 8.0pt 14.0pt 17.0pt;}
+div.WordSection8
+	{page:WordSection8;}
+@page WordSection9
+	{size:8.5in 11.0in;
+	margin:9.0pt 8.0pt 14.0pt 17.0pt;}
+div.WordSection9
+	{page:WordSection9;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}

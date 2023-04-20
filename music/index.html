@@ -1,3 +1,4 @@
+
 <html>
   <head>
     <title>Random Song Player</title>
@@ -29,7 +30,7 @@
       const songSelect = document.getElementById("songSelect");
 
       function loadSongList() {
-        const songs = <?php echo json_encode(glob("*.mp3")); ?>;
+        const songs = ["01 - Psalm 100.mp3","01 - Psalm 23.mp3","01 - Psalm 96.mp3","01 - Song 1_1-17.mp3","02 - Isaiah 11_1-9.mp3","02 - Numbers 6_22-27.mp3","02 - Psalm 52.mp3","02 - Song 2_1-17.mp3","03 - Psalm 1.mp3","03 - Psalm 131.mp3","03 - Psalm 24.mp3","03 - Song 3_1-11.mp3","04 - Psalm 13.mp3","04 - Psalm 27.mp3","04 - Ruth 1_1-22.mp3","04 - Song 1_1-3.mp3","04 - Song 4_1-16.mp3","05 - Psalm 29.mp3","05 - Psalm 6.mp3","05 - Psalm 67.mp3","05 - Ruth 2_1-23.mp3","05 - Song 5_1-16.mp3","06 - Ecclesiastes 1_1-9.mp3","06 - Lamentations 1_1-3.mp3","06 - Psalm 137.mp3","06 - Ruth 3_1-18.mp3","06 - Song 6_1-12.mp3","07 - Exodus 20_1-17.mp3","07 - Isaiah 60_1-5.mp3","07 - Psalm 133.mp3","07 - Ruth 4_1-22.mp3","07 - Song 7_1-14.mp3","08 - Deuteronomy 6_4-9.mp3","08 - Psalm 148.mp3","08 - Psalm 19.mp3","08 - Song 8_1-14.mp3","09 - Genesis 22_1-14.mp3","09 - Psalm 150.mp3","09 - Psalm 3.mp3","10 - 2 Samuel 1_19-27.mp3","10 - Psalm 113.mp3","10 - Psalm 8.mp3","11 - Psalm 122.mp3","11 - Psalm 93.mp3","11 - Psalm 98.mp3","12 - Psalm 121.mp3","12 - Psalm 123.mp3","12 - Psalm 130.mp3","13 - Amos 1_1-9.mp3","13 - Esther 5_1-3.mp3","14 - Exodus 3_1-14.mp3","14 - Psalm 62.mp3"];
         songs.forEach(function(song) {
           const option = document.createElement("option");
           option.value = song;

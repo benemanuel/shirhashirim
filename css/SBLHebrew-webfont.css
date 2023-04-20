@@ -1,0 +1,171 @@
+/*
+source:https://www.sbl-site.org/educational/biblicalfonts_sblhebrew.aspx
+license:https://www.sbl-site.org/assets/pdfs/SBL_Font_End_User_License_Agreement.pdf
+webfont created https://transfonter.org/
+
+cat ../verse/setup/Comment_table.txt|awk -F, '{print "/% "$1" %/\n.comment-text-area-"$3" {\n    font-family: #SBL Hebrew#,serif;\n    color: @3"$3"ff"$3";\n    background-color: lightgreen;\n}\n"}'|sed  's/#/"/g'|sed  's#%#*#g'|sed  's/@/#/g' >> SBLHebrew-webfont.css
+*/
+@font-face {
+    font-family: 'SBL Hebrew';
+    src: local('SBL Hebrew'), local('SBLHebrew'),
+        url(/fonts/SBLHebrew.woff2) format('woff2'),
+        url(/fonts/SBLHebrew.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+.console {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.small {
+  font-size: smaller;
+}
+
+.bigger {
+  font-size: larger;
+}
+
+.superscript {
+    vertical-align: super;
+    line-height: normal;    
+    position: relative;
+}
+
+.subscript
+{
+    vertical-align: sub;
+    line-height: normal;
+    position: relative;
+}
+
+.error-text-area {
+    font-family: CharisSIL-I,"Times New Roman",serif;
+    color: red;
+    font-style: normal;
+    font-weight: bold;
+}
+
+
+.source-text-area {
+    font-family: "SBL Hebrew",serif;
+}
+
+.source-text-area-title {
+    font-family: "SBL Hebrew",serif;
+    font-style: normal;
+    font-weight: bolder;
+}
+
+.verse-text-area {
+    font-family: "SBL Hebrew",serif;
+}
+.comment-text-area {
+    font-family: "SBL Hebrew",serif;
+    background-color: lightgreen;
+}
+.editornotes-text-area {
+    font-family: "SBL Hebrew",serif;
+        background-color: violet;
+}
+.hebrew-text-area {
+    font-family: "SBL Hebrew",serif;
+        background-color: lightgray;
+}
+
+.source-text-highlighted-area{
+    font-family: "SBL Hebrew",serif;
+    background-color: lightblue;
+}
+/* ﻿קרי_וכתיב */
+.comment-text-area-1 {
+    font-family: "SBL Hebrew",serif;
+    color: rgb(220, 10, 60);
+    background-color: lightgreen;
+}
+
+/* טעמים */
+.comment-text-area-2 {
+    font-family: "SBL Hebrew",serif;
+    color:  rgb(220, 20, 60);
+    background-color: lightgreen;
+}
+
+/* סימון */
+.comment-text-area-3 {
+    font-family: "SBL Hebrew",serif;
+    color:  rgb(220, 30, 60);
+    background-color: lightgreen;
+}
+
+/* הבהרה */
+.comment-text-area-4 {
+    font-family: "SBL Hebrew",serif;
+    color:  rgb(220, 40, 60);
+    background-color: lightgreen;
+}
+
+/* סבירין */
+.comment-text-area-5 {
+    font-family: "SBL Hebrew",serif;
+    color:  rgb(220, 50, 60);
+    background-color: lightgreen;
+}
+
+/* ניקוד */
+.comment-text-area-6 {
+    font-family: "SBL Hebrew",serif;
+    color:  rgb(220, 60, 60);
+    background-color: lightgreen;
+}
+
+/* צ׳׳ל */
+.comment-text-area-7 {
+    font-family: "SBL Hebrew",serif;
+    color:  rgb(220, 70, 60);
+    background-color: lightgreen;
+}
+
+/* נ׳׳א */
+.comment-text-area-8 {
+    font-family: "SBL Hebrew",serif;
+    color:  rgb(220, 80, 60);
+    background-color: lightgreen;
+}
+
+/* צורת_האות */
+.comment-text-area-9 {
+    font-family: "SBL Hebrew",serif;
+    color:  rgb(220, 90, 60);
+    background-color: lightgreen;
+}
+
+/* הוראת_כתיבה */
+.comment-text-area-10 {
+    font-family: "SBL Hebrew",serif;
+    color:  rgb(220, 100, 60);
+    background-color: lightgreen;
+}
+
+/* קדש */
+.comment-text-area-11 {
+    font-family: "SBL Hebrew",serif;
+    color:  rgb(220, 110, 60);
+    background-color: lightgreen;
+}
+
+/* מידע */
+.comment-text-area-12 {
+    font-family: "SBL Hebrew",serif;
+    color:  rgb(220, 120, 60);
+    background-color: lightgreen;
+}
+
+/* הפטרה */
+.comment-text-area-13 {
+    font-family: "SBL Hebrew",serif;
+    color:  rgb(220, 130, 60);
+    background-color: lightgreen;
+}
+

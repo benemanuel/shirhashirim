@@ -1,1 +1,0 @@
-T: PSALMODIC SYSTEM (New signs)
