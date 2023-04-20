@@ -1,0 +1,5 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_REFERER} !^$
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp|mp3|pdf)$ - [F,NC]
+

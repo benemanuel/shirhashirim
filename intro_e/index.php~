@@ -1,0 +1,334 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+        <meta charset='utf-8'>
+        <meta http-equiv="content-type" content="text/html" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="/css/ms.css" media="all" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="/css/footnotes.css" type="text/css" />
+        <link rel="stylesheet" href="/css/SBLHebrew-webfont.css" type="text/css" />
+<?PHP
+include '../intro/abc_header.php';
+?>
+</head>
+
+<body lang=EN-US style='word-wrap:break-word'>
+
+
+<div class=WordSection1 style="text-align: center;">
+
+<h6><span style='font-size:20.0pt'>INTRODUCTION</span></h6>
+
+</div>
+
+<div class=MsoNormal>The melodies, hitherto unpublished, that make up this collection are not the work of a composer. They were deciphered from the musical signs of the Hebraic Bible, a study I was able to conclude, after many years of laborious but fascinating research.</div>
+
+<div class=MsoNormal style='text-align:justify'>These signs still appear (next to another group of signs: the vowel points) in the complete editions of the Bible that are faithful, according to religious authority, to the traditional version known as the &quot;Masoretic&quot; one. Certain Bibles are not considered as such, as they include manifest modifications among which the following are relevant to our subject: shifting, intervention and suppression of signs, changes which the <b><i>revealed music</i></b> show to be incompatible).<details><summary>(a)</summary><div class="details-content">For my research I used the Hebraic Bible: &quot;Masoretic version&quot; certified by the Chief Rabbinate (French edition COLBO. Paris) where no anomaly was found on this subject.</div></details>
+</div>
+
+<div class=MsoNormal style='text-align:justify'>An ancestral law forbids adding any signs to the scrolls reserved for the chanted reading of the Bible at religious ceremonies, as the reader is supposed to have perfect knowledge of the manner of execution.</div>
+
+<div class=MsoNormal style='text-align:justify'>The most ancient manuscripts in our-possession containing these notations date back only to the 9th and 10th centuries, but recent historical research certifies that the signs appear long before this period.</div>
+
+                                                                                                                                                            <div class=MsoNormal style='text-align:justify'>Latter day commentators date them as early as the time of Ezra (5th century before our era) or even that of Moses (13th century). According to them, these ancient signs conceal the true tradition of the chanted rendering of the holy texts, which is also the opinion of modern specialists.</div>
+
+<div class=MsoNormal style='text-align:justify'>The importance of the cantillation of the Bible at the time of the Israeli epic must be made clear. In the manner of other texts, the Bible lacked punctuation marks (it was not envisaged until the third century before our era). The melody which supported the verse was meant to make its sense clear. This claim until recently remained questionable, but the reconstructed melodies confirm it beyond doubt.</div>
+
+<div class=MsoNormal style='text-align:justify'>The various traditions have never given anything but evasive, multiple, and contradictory interpretations of the signs. The value I attribute to each, and every sign never varies throughout the whole Bible. From the strict application of my deciphering key, a treasure of masterpieces suddenly emerges, bearing witness to a refined art, in language of extreme simplicity and archaic manner, yet of heart-rending expressiveness which is, moreover, in complete and consistent harmony with the &quot;spirit&quot; of the text.</div>
+
+<div class=MsoNormal style='text-align:justify'>This amazing discovery I have explained in detail, backing it up with the support of an exhaustive study of the historical context: the characteristics of ancient music set forth in the treatises, the lasting musical tradition in the temple of Jerusalem (not oral but maintained by a precise representation of gestures instead of the notations); the names of the signs which strikingly evoke their musical value determined by the key, etc. Such are the reasons and proof (if need be) confirming the authenticity of my deciphering system.<details><summary>(b)</summary><div class="details-content">See my book: LA MUSIQUE DE LA BIBLE REVELEE. <span lang=FR>2nd Edition : DESSAIN &amp; TOLRA. Paris.</span></div></details></div>
+
+<!---
+<details>
+<summary>(x)</summary>
+<div class="details-content">XXX
+</div></details>
+      --->
+
+<br>
+
+<p class=MsoNormal>Suzanne HAIK-VANTOURA</p>
+
+
+<div class=WordSection2 style="text-align: center;">
+
+<h6><span style='font-size:20.0pt'>FUNCTIONAL GUIDELINES</span></h6>
+
+</div>
+
+<div class=WordSection3>
+
+<ol type="A">
+     <li><b>ENGLISH PRONUNCIATION</b></li>
+
+<p class=MsoNormal>Simplified for the benefit of the reader</p>
+
+<ol type="1">
+<li>a = a as in <i>far</i></li>
+<li>kh (<i>Hebrew</i> <i>khaf</i>), <u>h</u> (<i>Hebrew</i> <i><u>h</u>et</i>)= ch in German as in J.S. BACH</li>
+<li>&eacute; = long a as in <i>space</i> or <i>late</i></li>
+<li>e = short e as in <i>her</i></li>
+<li>&ccedil; = soft c as in <i>face</i></li>
+<li>ay = y as in <i>cry</i></li>
+<li>sch= sh as in <i>brush</i></li>
+<li>i = ee as in <i>see</i></li>
+<li>ou = oo as in <i>food</i></li>
+<li>consonants written in capitals in the middle of a word are slightly stressed</li>
+<li>the apostrophe : represents the Hebrew gutteral <i>ayin</i>. a Hebrew gutteral <i>ayin</i> which has no equivalent in western languages.</li>
+<li>the syllables of the same word are connected by a dash</li>
+<li>&#x207; = ay as in <i>may</i></li>
+<li>g = hard g as in <i>got</i></li>
+</ol>
+
+<li><b>RHYTHM</b></li>
+<ol type="1">
+<li><div class=MsoNormal>STRESS<br>
+<div style='text-indent:.25in'>Every note placed at the beginning of a measure is at least slightly stressed. The bar lines are justified by this stress. Notes having a small vertical bar above them are also stressed.</div>
+<div style='text-indent:.25in'>When eighth notes<details><summary>(1)</summary><div class="details-content">
+eighth note = quaver.
+</div></details>belonging to the same word are not tied, this means that a rather light stress occurs after the interruption.</div></div></li>
+
+<li><div class=MsoNormal>PSALMODY: <i>measured time</i><br>
+<div style='text-indent:.25in'>The psalms are <i>measured</i>. The unit chosen for the syllabic time is an <i>eighth</i>, whatever the &quot;tempo&quot; may be. Therefore, all eighth notes are of equal length in the same psalm.</div>
+<div style='text-indent:.25in'>The sixteenth notes<details><summary>(2)</summary><div class="details-content">
+Sixteenth note = semi quaver.
+</div></details>, tied by 2 or 3, and the thirty-second notes<details><summary>(3)</summary><div class="details-content">
+Thirty second note = demi semi-quaver
+</div></details>(tied by 4) <i>equally</i> share the syllabic time, that is, of the eighth note. This rule is <i>absolute</i>. <b>Evenness</b> does not mean stiffness! the psalmody is always <i>lithe</i><details><summary>(4)</summary><div class="details-content">
+Particularly the group &quot;<span lang=HE dir=RTL style='font-size:16.0pt;font-family:"SBL Hebrew"'> &#1432;</span><span dir=LTR></span><spandir=LTR></span>&quot;, called also &quot;tube&quot; (&quot;epurt&quot; in the prosody, see p. 43), which shows that the loop that it seals must be &quot;closed&quot; by the return to the original note.</p>
+</div></details>
+<div style='text-indent:.25in'>The tempo determined by the melody associated with the verbal text naturally varies from one psalm to another. It is indicated at the beginning of every psalm, and sometimes in the course of the music when a change occurs, although this is rare.</div></div></il>
+
+<li><div class=MsoNormal>PROSODY: <i>approximate time</i><br>
+<div style='text-indent:.25in'>For narratives and doctrine (texts of prose), the syllabic time is <i>not determined</i>. Thus, the time of the eighth note, which is always equivalent to the syllabic time, is likewise <i>undetermined</i>. Let us look at the spoken discourse: the neutral, stressed and dynamic syllables last a variable and approximate amount of time, depending on their importance in the verbal sentence. The melody sticks to these variations and directs their proportion, being the primary interpreter of the text which it accompanies. It should be noted that what is &quot;natural&quot; is the rule. Any misplaced rhythm causes a flaw. This is the whole art of chanting, which is related to the art of speech...</div></li>
+
+<li><div class=MsoNormal>VALUE OF SMALL NOTES</br>
+<div style='text-indent:.25in'>The small <i>diamond-shaped</i> notes among the usual notes of prosody have an important and delicate function. Above all, they should not be compared with our &quot;ornaments&quot;: they are an <i>integral part</i> of the melody, and to remove them would be tantamount to an actual amputation. Not to give them sufficient duration causes an <i>uncomfortable feeling</i>. The best guide is always the verbal and tonal context. The interpreter should do his utmost to judge the length of duration attributed to a group of words according to its relative value in the general sense of the verse. The names of the signs are a precious indication of the way to interpret their value; &quot;jet&quot;, &quot;drawing out&quot;, &quot;dispersion&quot;, &quot;cluster&quot;, etc. (cf. p. 43) such indications should of course be adapted to the verse.</div></div></li>
+
+<li><div class=MsoNormal>THE FUNCTION OF TIED NOTES: <i>small tied notes</i></br>
+<div style='text-indent:.25in'>The ties used in the prosody only serve to suggest a necessary lengthening of certain syllables, which can sometimes be of considerable importance. The degrees are as follows: an eighth having one tie: slightly drawn out; an eighth tied to a small note: equivalent to approximately two eighths; tied to a small note with a tie: even more drawn out.</div></div></li>
+</ol>
+<li><b>ALTERATIONS</b></li>
+
+<div class=MsoNormal style='text-indent:.5in'>Constitutive alterations appear as a key signature only when convenient; as accidentals, they are valid for one
+bar.</div>
+
+<li><b>ACCOMPANIENT</b></li>
+
+<div class=MsoNormal style='text-indent:.5in'>The accompaniment written in the treble-clef should be played at the lower octave, preferably on a small harp or lute, or if these instruments are not available, on a guitar. Of course, this was not deduced from the deciphering key, but was added in order to give the melody its normal setting (the biblical text is explicit: the psalms had an accompaniment, cf. p. 40). Full concert version for choir is available: accompaniment small harp and lute (trumpet and cymbals optional).</div>
+
+<li><b>INTERPRETATION</b></li>
+
+<div class=MsoNormal style='text-indent:.5in'><i>Psalmody</i>: the cadence is stable in the chorus and slightly more flexible for the soli. Nevertheless, no
+excess is tolerated. Reserve prevails as a form of respect but does not affect the expression, which is intense.</div>
+
+<div class=MsoNormal style='text-indent:.5in'><i>Prosody</i>: as we have already stated, any misplaced excess should be avoided, but on the other hand any
+stiffness is totally <i>undesirable</i>. One must fully understand the written text, which is shrouded by the melody, and serve it well.</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal style='text-indent:.5in'>The performer will benefit from listening to the interpretation on the record corresponding to this collection. All the works included here can be found on the recording.</div>
+
+<div class=MsoNormal>These melodies were intended almost wholly for the Levites. They are set forth here for <i>middle</i> register, the chorus for <i>equal</i> register.</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal><i>ANY ADAPTATION of these melodies to a language other than Hebrew is forbidden as they &quot;bound&quot; to the accents of the sacred
+text, both from point of view of sound and rhythm.</i></div>
+
+</ol>
+
+<div class=WordSection4 style="text-align: center;">
+
+<h6><span style='font-size:20.0pt'>LIVING MUSICAL TRADITION</span></h6>
+
+</div>
+
+
+<div class=MsoNormal align=center style='text-align:center'><i>at the Temple of Jerusalem</i></div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>- In the 10th century before our era<b>, </b>a<b> </b>Music Academy for worship was created by David: <i>&quot;four thousand (Levites) will praise the Lord, with the instruments which I made to praise therewith.&quot; </i>(I Chr. 23:5).</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>- The holy service was carried out by 288 cantors and instrumentalists directed by gestures representing sounds: <i>&quot;... all these were under the hands of their fathers for song in the house of the Lord with cymbals, psalteries and harps (...) So the number of them, all masters (...) was two hundred fourscore and eight.&quot; </i>(I Chr. 25:1, 6-7).</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>- Participants at the inauguration of the Temple of Solomon numbered over 400 &quot;The singers all of them (...) being arrayed in
+white linen, having cymbals and psalteries and harps, stood at the east end of the altar; with them a hundred and twenty priests sounding with trumpets.&quot; </i>(II Chr. 5: 12-13).</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>- Under Joash, king and reformer, (9th century before the actual era), again were heard the songs of the Levites <i>&quot;according to
+the hands of David.&quot;</i>(II Chr. 23:18).</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>- Similarly, when the foundations of the second temple were laid ... <i>&quot;the Levites sang the Hallel according to the hands of David&quot;. </i>(Ezra 3:10).</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>- In the 3rd century before our era, the tradition still persisted; as witnessed by Jesus ben Sira: <i>&quot;Then the sons of Aaron shouted ... Then the singers praised him with their voices in sweet and full-toned melody...</i>'' (Ecclesiastics 50:16,18).</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>- Under Herod they were still practicing. Josephus records a minimum of 12 cantors and 12 instrumentalists.</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>- In the 2nd century of our era Hebrew sacred music is again cited as an example by Clement of Alexandria: <i>&quot;The songs of the Hebrews were in regular and harmonious cadence, their melodies simple and solemn.&quot;</i></div>
+
+
+<div class=WordSection5 style="text-align: center;">
+
+<h6><span style='font-size:20.0pt'>DECIPHERING KEY OF THE MUSICAL SIGNS OF THE BIBLE</span></h6>
+
+</div>
+
+<div class=WordSection6>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<div class=MsoNormal>- <i>A concise and Brief Notation</i></div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>SIGNS APPEARING BELOW WORDS correspond to a note having a <i>definite</i> pitch: it is one of the seven degrees of the normal scale. The pitch adopted for the <i>tonic</i> determines the pitch of the other notes of the scale.</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>- <i>Economy of signs:</i> signs appearing below words not only affect the syllables under which they are placed, but the following ones as well, as long as a new sign <i>below</i> the words does not occur. The sign &quot;<span lang=HE dir=RTL style='font-size:16.0pt;font-family:"SBL Hebrew"'>&#1469;</span><span dir=LTR></span>&quot;, tonic, is understood at the beginning of each verse, when no other sign appears below.</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>SIGNS APPEARING ABOVE WORDS correspond to notes
+<details>
+<summary>(a)</summary>
+<div class="details-content">
+Two, or maximum three.
+</div></details>
+of &quot;<i>relative</i>&quot; pitch. They are subordinated to the previous signs appearing below the words. They are either the next degree (higher or lower) or another note, but always relative to the pitch of the note represented by the preceding sign appearing below the words.</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div clas=MsoNormal>INVARIABLE RULE: the signs <i>above</i> words affect only the syllables above which they are placed.</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>- Economy of signs: with the following syllable, the note represented by the previous sign below the words (still valid. as has already
+been mentioned) is <i>reintegrated</i>.</div>
+
+<div class=MsoNormal style='text-indent:.5in'>This reintegration is sometimes <i>anticipated</i> or even <i>avoided</i> if the context so demands. (See book, Appendix).</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>TWO COMPLEMENTARY SYSTEMS make up this notation: one for the narrative, doctrines, etc. (texts of prose), and the other for the psalms and proverbs.</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>CHARACTERISTICS OF ARCHAIC NOTATION</div>
+
+<div class=MsoNormal>There are no signs of rhythm, as they are superfluous. The syllabic time is constant in the psalms (see page VIII) and is deduced from the words of the text in prose. (The usage is ancestral and universally practiced (see page VIII).</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>Nor is the form of scale mentioned which is the case, moreover, in the ancient notation (&quot;neumatiques&quot;: see my book). It was
+certainly known to the Levites. as the skilled musician may detect from the close connection between the melody and the verbal text which it interprets
+(the key-signature and accidental alterations only appeared a few centuries ago as a result of the complexity of the tonal system).</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>For fuller details, see my book &quot;LA MUSIQUE DE LA BIBLE REVELEE&quot;.</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal>THE VALIDITY OF THE DECODING is confirmed by the extraordinary coincidence between the meaning of the signs' names and their musical. meaning as attributed to them by the deciphering key.</div>
+
+<div class=MsoNormal>- See next page for <a href="/intro/emeth.php">the verification ruler.</a></div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+
+<?PHP
+
+include '../intro/abc_top.php';
+include 'signs_body_e.php';
+include '../intro/signs_body_1.php';
+include 'signs_body_e2.php';
+include '../intro/signs_body_2.php';
+include 'signs_body_e3.php';
+include '../intro/signs_body_3.php';
+include '../intro/abc_body.php';
+?>
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<div class=WordSection7>
+
+<div class=MsoNormal>Similar signs (D)</div>
+
+<p dir="rtl" lang="he" class="source-text-area">
+&#1488;&#1469; &#1488;&#1445; &#1488;&#1430; &#1488;&#1425; &#1488;&#1443; &#1488;&#1434;</p>
+
+<p class=MsoNormal>Siluk Mercha Tipcha Etnachta Munach Mahpach</p>
+
+<p dir="rtl" lang="he" class="source-text-area">
+&#1505;&#1460;&#1500;&#1468;&#1469;&#1493;&#1468;&#1511; &#1502;&#1461;&#1512;&#1456;&#1499;&#1464;&#1445;&#1488; &#1496;&#1460;&#1508;&#1456;&#1468;&#1495;&#1464;&#1430;&#1488; &#1488;&#1462;&#1514;&#1456;&#1504;&#1463;&#1495;&#1456;&#1514;&#1464;&#1468;&#1425;&#1488; &#1502;&#1467;&#1504;&#1463;&#1468;&#1443;&#1495; &#1502;&#1463;&#1492;&#1456;&#1508;&#1463;&#1468;&#1444;&#1498;</p>
+
+<p dir="rtl" lang="he" class="source-text-area">
+&#1489;&#1433;    &#1489;&#1436;   &#1489;&#1441;    &#1489;&#1432;&#8206;</p>
+<p class=MsoNormal>Pashta  Geresh  Pazer  Tsinnorit (E)</p>
+
+<p dir="rtl" lang="he" class="source-text-area">
+&#1508;&#1463;&#1468;&#1513;&#1456;&#1473;&#1496;&#1464;&#1488;&#1433; &#1490;&#1461;&#1468;&#1436;&#1512;&#1461;&#1513;&#1473; &#1508;&#1464;&#1468;&#1494;&#1461;&#1441;&#1512; &#1510;&#1460;&#1504;&#1468;&#1493;&#1465;&#1512;&#1460;&#1514;&#1432;</p>
+
+<p>(A) Of relative value, not absolute (B) See p. 44 (C) sign below assumed, for demonstration purposes. (D) same value. (E) Different value, in prosody, justified by etymology (see p. 43)</p>
+
+</ol>
+
+<div class=WordSection8 style="text-align: center;">
+
+<h6><span style='font-size:20.0pt'>NOTE</span></h6>
+
+</div>
+<div class=MsoNormal>The deciphering Key outlined herein is the exclusive property of the Author. Any musical production using this original Key as applied to any BIBLE verses whatsoever <i>must first be submitted to the Honorary Music Committee of the FONDATION ROI DAVID</i>, sole authority to endorse its value and total conformity with the system set forth in this work.</div>
+
+<div class=MsoNormal>Any such new production --as executed, reproduced, or published-- must bear the indication: <i>realized in accordance with the deciphering Key of Suzanne HAIK VANTOURA and approved by the Honorary Music committee of the FOUNDATION ROI DAVID</i>. It is essential to preserve the other spiritual testament which restoring music to the Bible represents.</div>
+
+<div class=MsoNormal>With this objective in mind, and in order to encourage disciples eager to pursue the task undertaken, the Author has organized a seminar.</div>
+
+<div class=MsoNormal>For further information contact</div>
+
+<div class=MsoNormal>the FONDATION ROI DAVID (a non profit organization as defined by the law of 1901) </div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+
+<div class=WordSection9 style="text-align: center;">
+
+<h6><span style='font-size:20.0pt'>APPLICATION OF<a href="/intro/emeth.php"> THE VERIFICATION RULER </a></span></h6>
+
+</div>
+
+
+<div class=MsoNormal>&nbsp;</div>
+<div class=MsoNormal style='text-indent:27.1pt'><a href="/intro/emeth.php"> THE VERIFICATION RULER </a> enables one to verify whether each note of the reconstructed melody of the Bible is indeed deduced from the strict application of the deciphering key, excluding any addition, subtraction or change.</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal style='text-indent:27.1pt'>TO CHECK SIGNS APPEARING BELOW WORDS: place the corresponding sign on the ruler at the left of the sign in question in the melody <i>(first of all, check that the scale used in the piece of music coincides with one of the scales among the four different types (tessitura used in this volume), shown on the right-hand side of the ruler). The same note should be attributed to the first sign </i>&quot;sillouk&quot; which is the tonic. The seven other notes of the same type of scale will always correspond to those found in the melody (in the course of the piece of music in question) if the previous condition is observed.</div>
+
+<div class=MsoNormal>&nbsp;</div>
+
+<div class=MsoNormal style='text-indent:27.1pt'>TO CHECK SIGNS APPEARING ABOVE WORDS: place the ruler exactly at the level of the note corresponding to the <i>sign below preceding</i> the sign above the words that is undergoing verification (line or space):The following notes - those corresponding to the sign in question - are always exactly the same on the ruler and in the music. No other note is ever added.</div>
+
+<?PHP
+include '../intro/abc_tail.php';
+?>
+</body>
+
+</html>
